@@ -1,5 +1,5 @@
 server:
-  port: 8085
+  port: 7070
 spring:
   application:
     name: config-server
@@ -8,12 +8,11 @@ spring:
       server:
         git:
           uri: https://github.com/maiksurco/BACKEND2023-2.git
+          #username:
+          #password:
           search-paths: config-data
-          default-label: main
-            #username: rickisurco
-            #password: a12b68deh6mk89
-
+          default-label: ms-registry-server
   security:
-     user:
-       name: root
-       password: s3cre3t
+    user:
+      name: root
+      password: s3cr3t
