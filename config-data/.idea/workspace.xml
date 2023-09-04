@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4c6dee-9ed7-45b2-8dcd-bda778eb4a88" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-producto-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-producto-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../maven-producto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-producto/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +51,7 @@
       <workItem from="1693786854051" duration="621000" />
       <workItem from="1693804753391" duration="61000" />
       <workItem from="1693805187054" duration="3654000" />
-      <workItem from="1693831918904" duration="3326000" />
+      <workItem from="1693831918904" duration="3667000" />
     </task>
     <servers />
   </component>
