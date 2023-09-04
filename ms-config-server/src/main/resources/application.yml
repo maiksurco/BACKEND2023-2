@@ -11,7 +11,8 @@ spring:
           #username:
           #password:
           search-paths: config-data
-          default-label: registry-server
+          default-label: main
+  
   security:
     user:
       name: root
