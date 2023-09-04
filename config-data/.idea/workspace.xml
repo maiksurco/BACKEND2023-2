@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df4c6dee-9ed7-45b2-8dcd-bda778eb4a88" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../maven-producto/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-categoria-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-categoria-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-producto-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-producto-service.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../maven-producto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maven-producto/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maven-producto/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-catalogo/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-catalogo/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/java/maik/example/msconfigserver/MsConfigServerApplication.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../ms-config-server/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ms-config-server/src/test/java/maik/example/msconfigserver/MsConfigServerApplicationTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +27,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/BACKEND/micros/BACKEND2023-2/ms-config-server&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/RICK microservicios/BACKEND2023-2/ms-config-server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,6 +53,7 @@
       <workItem from="1693786854051" duration="621000" />
       <workItem from="1693804753391" duration="61000" />
       <workItem from="1693805187054" duration="3654000" />
+      <workItem from="1693831918904" duration="3326000" />
     </task>
     <servers />
   </component>
